@@ -3,6 +3,6 @@
 belajar java mulai dari
 
 - [x] java dasar
-- [ ] control flow
-- [ ] collection type
+- [x] control flow
+- [x] collection type
 - [ ] oop
