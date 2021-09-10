@@ -1,6 +1,9 @@
 # java programming 🔥 🇮🇩
->dokumentasi belajar di **dicoding.com**
-belajar java mulai dari
+
+![gambar](https://gatostudy.com/wp-content/uploads/2019/09/java.jpg)
+
+> dokumentasi belajar di **dicoding.com**
+> belajar java mulai dari
 
 - [x] java dasar
   - [x] Struktur Dasar
