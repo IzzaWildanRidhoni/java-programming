@@ -1,0 +1,24 @@
+package com.izzawildan.accessModifier.package1;
+
+public class KelasA {
+
+  private int memberA = 5;
+
+  //   default modifier
+  char memberB = 'A';
+  double memberC = 1.5;
+
+  private int functionA() {
+    return memberA;
+  }
+
+  int functionB() {
+    // Pemanggilan private member dan private function
+    int hasil = functionA() + memberA;
+    return hasil;
+  }
+
+  protected void methodC() {
+    System.out.println("percobaan access modifier");
+  }
+}
