@@ -24,4 +24,4 @@ belajar java mulai dari
   - [x] Object
   - [x] Function
   - [x] Properti dan Method
-  - [x] Access Modifier
+  - [x] [Access Modifier](https://github.com/IzzaWildanRidhoni/java-programming/tree/master/07-oop/src/com/izzawildan/accessModifier)
