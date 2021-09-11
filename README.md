@@ -28,3 +28,4 @@
   - [x] [Function](https://github.com/IzzaWildanRidhoni/java-programming/tree/master/07-oop/src/com/izzawildan/function)
   - [x] [Properti dan Method](https://github.com/IzzaWildanRidhoni/java-programming/tree/master/07-oop/src/com/izzawildan/propertiMethode)
   - [x] [Access Modifier](https://github.com/IzzaWildanRidhoni/java-programming/tree/master/07-oop/src/com/izzawildan/accessModifier)
+  - [x] Interface
