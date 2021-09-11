@@ -10,4 +10,6 @@ Beberapa terminologi yang penting:
 - **Sub Class atau Child Class**, kelas turunan yang mewarisi semua fitur dari kelas lain. Sub class dapat menambah field dan metodenya sendiri sebagai tambahan dari kelas yang memberi warisan.
 - **Reusability**, yaitu ketika kita ingin membuat kelas baru dan sudah ada kelas yang berisi kode yang kita inginkan, kita bisa menurunkan kelas baru tersebut dari kelas yang sudah ada. Dengan begitu, kita menggunakan kembali field dan metode dari kelas yang telah ada.
 
+# Overriding dan Overloading
 
+Setiap kelas yang `extends` kelas lain akan mewarisi semua field dan metode yang ada di parent class tersebut. 
